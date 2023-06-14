@@ -102,7 +102,7 @@ public class CustomerSpawner : MonoBehaviour
     {
         int index;
         int i = UnityEngine.Random.Range(0, 100);
-        if (i <= chanceOfChild && SetGetInfo.currentLevel > 2)
+        if (i <= chanceOfChild && SetGetInfo.currentLevel == 3)
         {
             index = SpawnChild();
             isChild = true;
