@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Banana"
+    },
+    {
+      "id": 1,
+      "name": "Water with apple"
+    },
+    {
+      "id": 2,
+      "name": "Spain wine"
+    },
+    {
+      "id": 3,
+      "name": "Italiano wine"
+    },
+    {
+      "id": 4,
+      "name": "Water"
+    },
+    {
+      "id": 5,
+      "name": "Cola"
+    },
+    {
+      "id": 6,
+      "name": "Manure"
+    },
+    {
+      "id": 7,
+      "name": "Cigarettes"
+    },
+    {
+      "id": 8,
+      "name": "Whiskey"
+    },
+    {
+      "id": 9,
+      "name": "Georgian wine"
+    },
+    {
+      "id": 10,
+      "name": "Muffin"
+    },
+    {
+      "id": 11,
+      "name": "Raspberry jam"
+    },
+    {
+      "id": 12,
+      "name": "Isotonic"
+    },
+    {
+      "id": 13,
+      "name": "Americano"
+    },
+    {
+      "id": 14,
+      "name": "Green tea"
+    },
+    {
+      "id": 15,
+      "name": "Orange"
+    },
+    {
+      "id": 16,
+      "name": "Apple"
+    },
+    {
+      "id": 17,
+      "name": "Pear"
+    },
+    {
+      "id": 18,
+      "name": "Bread"
+    },
+    {
+      "id": 19,
+      "name": "Ketchup"
+    },
+    {
+      "id": 20,
+      "name": "Bubble tea"
+    },
+    {
+      "id": 21,
+      "name": "Time"
+    }
+  ]
+}

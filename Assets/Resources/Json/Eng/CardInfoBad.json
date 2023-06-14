@@ -1,0 +1,64 @@
+{
+  "card": [
+    {
+      "id": 0,
+      "name": "Distrust in banks",
+      "info": "Customers are more likely to pay by cash"
+    },
+    {
+      "id": 1,
+      "name": "Terminal broken",
+      "info": "Сustomers pay by cash only"
+    },
+    {
+      "id": 2,
+      "name": "Crooked hands",
+      "info": "More corrupted barcodes"
+    },
+    {
+      "id": 3,
+      "name": "Anti tolerance",
+      "info": "People lose their temper much faster"
+    },
+    {
+      "id": 4,
+      "name": "Suspicious",
+      "info": "People are much more attentive"
+    },
+    {
+      "id": 5,
+      "name": "Sale!!!",
+      "info": "Customers buy more products"
+    },
+    {
+      "id": 6,
+      "name": "Dyslexia",
+      "info": "All buttons on the numpad are mixed up"
+    },
+    {
+      "id": 7,
+      "name": "Mistrust",
+      "info": "All products have anti-theft"
+    },
+    {
+      "id": 8,
+      "name": "Fragile technology",
+      "info": "The probability of crashing an error in the computer is much higher"
+    },
+    {
+      "id": 9,
+      "name": "Long check",
+      "info": "The check roll runs out more often"
+    },
+    {
+      "id": 10,
+      "name": "\"And here is the coupon\"",
+      "info": "Customers are more likely to ask to scan a coupon"
+    },
+    {
+      "id": 11,
+      "name": "Do you want a bag?",
+      "info": "Buyers often ask for a bag"
+    }
+  ]
+}

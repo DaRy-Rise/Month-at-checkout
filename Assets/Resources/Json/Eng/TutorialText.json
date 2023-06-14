@@ -1,0 +1,336 @@
+{
+  "firstTutor": [
+    {
+      "text": "Hello, rookie"
+    },
+    {
+      "text": "I hired you for this ARCHIVE post for a reason!"
+    },
+    {
+      "text": "You will work at the cash register and serve the customers of my store."
+    },
+    {
+      "text": "A brief digression, listen carefully, I will not repeat."
+    },
+    {
+      "text": "A client comes, you scan the goods, he pays, that's all."
+    },
+    {
+      "text": "Not too hard, rookie?"
+    },
+    {
+      "text": "But your customers won't wait forever. Above you can see the scale of patience of each client."
+    },
+    {
+      "text": "If patience runs out before you have time to serve him, he will leave, and you will be reprimanded."
+    },
+    {
+      "text": "Under of this work, the rule of karma will operate. You can raise and lower its value."
+    },
+    {
+      "text": "I’ll tell you later what it will influence, if you of course hold out here for at least a day."
+    },
+    {
+      "text": "..."
+    },
+    {
+      "text": "The most important thing here is money."
+    },
+    {
+      "text": "At the end of the day, you can either get a plus on the money, or ... stay indebted to me, hehe"
+    },
+    {
+      "text": "Plus or minus on the checkout after each day also affects the karma counter"
+    },
+    {
+      "text": "If you give the customer more change than required..."
+    },
+    {
+      "text": "...you will get a minus at the checkout"
+    },
+    {
+      "text": "How to get a plus? Hehe, I think you already guessed"
+    },
+    {
+      "text": "But take heed. If the buyer notices that you cheated him, the value of your karma will decrease"
+    },
+    {
+      "text": "The greater the difference, the higher the chance that the buyer will notice that, I do not advise you to cross the threshold of $ 8"
+    },
+    {
+      "text": "..."
+    },
+    {
+      "text": "Oh yeah, to let go of a client you've already pay, tear off the check."
+    },
+    {
+      "text": "Although I think you were able to guess"
+    },
+    {
+      "text": "So, stop talking! Get to work and don't dishonor your family! Hehe."
+    }
+  ],
+  "secondTutor": [
+    {
+      "text": "You survived the first day - congratulations!"
+    },
+    {
+      "text": "I wanted to bet that you would run away from here in tears, but it's not over yet."
+    },
+    {
+      "text": "Pay attention to the rating that I gave you. I will evaluate you at the end of every working day."
+    },
+    {
+      "text": "\"A\" - if everything is perfect, you have not lost a single client and at least you did not owe me"
+    },
+    {
+      "text": "\"B\" - if at least one of the above items you managed to complete"
+    },
+    {
+      "text": "\"C\" - if the beginner's luck leaves you and you end the day with a minus at the checkout and losing at least one client!"
+    },
+    {
+      "text": "It's not just a formality, boy."
+    },
+    {
+      "text": "If you get a \"C\" grade for 5 days in a row, you'll be out of here faster than a cork from a bottle of my favorite beer!"
+    }
+  ],
+  "thirdTutor": [
+    {
+      "text": "Let me introduce you to an important mechanic that can save your skin many times over.."
+    },
+    {
+      "text": "...or bury you even deeper in a manure hole"
+    },
+    {
+      "text": "Before each working day you will need to choose 1 of 6 cards"
+    },
+    {
+      "text": "You may get a good card, or you may get a complete...disappointment, hehe"
+    },
+    {
+      "text": "Dropped effect lasts exactly 1 working day"
+    },
+    {
+      "text": "What determines whether a good or bad card will fall to you? Of course, from lady luck!"
+    },
+    {
+      "text": "But not only. Remember I told you about karma? Remember, rookie"
+    },
+    {
+      "text": "You started working here with a karma value of 50 points, out of a possible 100"
+    },
+    {
+      "text": "So the chance of getting a good or bad card is 50/50"
+    },
+    {
+      "text": "The lower the value of karma, the greater the chance that a bad card will fall, and if ..."
+    },
+    {
+      "text": "Well, you get the logic, right? Amazing"
+    },
+    {
+      "text": "The maximum number of good or bad cards is 5"
+    },
+    {
+      "text": "That is, even with impeccable karma, you can always run into an unpleasant surprise."
+    },
+    {
+      "text": "But on the other hand, you can get out of complete hopelessness"
+    },
+    {
+      "text": "These are all cards, I'm not your assistant"
+    },
+    {
+      "text": "Oh yes, you can always see the current value of karma here"
+    }
+  ],
+  "fourthTutor": [
+    {
+      "text": "Stop. Where do you put your hands, nothing bothers you?"
+    },
+    {
+      "text": "Open your eyes and look at the barcode, it looks like it's torn, right?"
+    },
+    {
+      "text": "It's fail of those on warehouse...but there's nothing to be done, you will take the rap for their mistakes"
+    },
+    {
+      "text": "This button will take you to the wonderful world of a cash register with unlimited possibilities!"
+    },
+    {
+      "text": "For example, enter the barcode manually"
+    },
+    {
+      "text": "Oh yeah, be careful with the cute trashcan button, I can see how it beckons you."
+    },
+    {
+      "text": "You don't need it now. If you delete the client's product, you will get a minus in karma! Instantly!"
+    },
+    {
+      "text": "That's the end of the lecture, let's get to work."
+    }
+  ],
+  "fifthTutor": [
+    {
+      "text": "Let's get back to the topic of product deletion."
+    },
+    {
+      "text": "Naive schoolchildren can come to you and try to buy cigarettes or a bottle of beer"
+    },
+    {
+      "text": "What do we do in such a case? That's right, we do not take the sin upon ourselves and remove such products"
+    },
+    {
+      "text": "Be careful, scan such a product as good as breaking the law!"
+    },
+    {
+      "text": "I won’t put you in jail, but it will have a bad effect on karma!"
+    },
+    {
+      "text": "I hope there will be no problems with the recognition of minors?"
+    },
+    {
+      "text": "You barely can see them from the cash register table, you can handle it, I think"
+    },
+    {
+      "text": "Another important point, the fourth button on the screen - what do you think it does?"
+    },
+    {
+      "text": "I will not accept theft, boy. Therefore, especially expensive goods are protected by a special \"anti-theft\" system."
+    },
+    {
+      "text": "Before scan such a product, it must be removed."
+    },
+    {
+      "text": "That's all for now, work!"
+    }
+  ],
+  "warningDoNotClick": [
+    {
+      "text": "Where are you clicking? It's early for you! Click again - the world will collapse!"
+    }
+  ],
+  "bagTutor": [
+    {
+      "text": "So why are you frozen?"
+    },
+    {
+      "text": "You pull the package from the bottom and give it to the client"
+    },
+    {
+      "text": "Of course, after opening it. We are like him.."
+    },
+    {
+      "text": "\"...customer-oriented enterprise\"! hehe"
+    },
+    {
+      "text": "Oh yeah, make sure that the package is opened exactly - swipe three times to be sure"
+    }
+  ],
+  "couponTutor": [
+    {
+      "text": "He wanted a discount..."
+    },
+    {
+      "text": "So look: some customers are especially smart and got special discount coupons from somewhere."
+    },
+    {
+      "text": "Naturally, everything is official, I once gave them out ... I was young and stupid"
+    },
+    {
+      "text": "It doesn't matter anymore, the important thing is that not all coupons are valid"
+    },
+    {
+      "text": "They can try to trick you, prove that it's not as easy as it seems at first glance at you"
+    },
+    {
+      "text": "Save my money!"
+    },
+    {
+      "text": "Look carefully at the coupon expiration date and QR code"
+    },
+    {
+      "text": "Even if a small piece of code is erased..."
+    },
+    {
+      "text": "...very sorry, but this coupon is not valid"
+    },
+    {
+      "text": "If any of this makes you suspicious - do not be shy to refuse the client."
+    },
+    {
+      "text": "To accept the coupon - scan this ill-fated QR code as a special device"
+    },
+    {
+      "text": "And to refuse - just swipe on the coupon and it will automatically become even more unusable, hehe"
+    },
+    {
+      "text": "Keep in mind - any mistake is worth your karma points"
+    },
+    {
+      "text": "Click on the coupon and go! Make me money!"
+    }
+  ],
+  "screenErrorTutor": [
+    {
+      "text": "So what do we have here?"
+    },
+    {
+      "text": "Broke the system? Well done!"
+    },
+    {
+      "text": "What does it mean it's not you..."
+    },
+    {
+      "text": "Okay, it's not going to be easy to deceive you, so listen"
+    },
+    {
+      "text": "Our system is not perfect, it sometimes fails, the programmers messed something up, as usual"
+    },
+    {
+      "text": "Do not waste a time, as soon as the error crashes - click reload"
+    },
+    {
+      "text": "The client, unlike me, does not differ in angelic patience and will not wait long"
+    },
+    {
+      "text": "Oh yes, during an error, the product is not scanned"
+    },
+    {
+      "text": "Well, here we have such a small periodic error"
+    },
+    {
+      "text": "The main thing other things works like clockwork! And keep up!"
+    }
+  ],
+  "checkErrorTutor": [
+    {
+      "text": "Another little clarification"
+    },
+    {
+      "text": "You didn't think that rolls of checks are endless, they need to be changed periodically"
+    },
+    {
+      "text": "So you tap the check device, remove the old roll, put in a new one"
+    },
+    {
+      "text": "and of course, do not forget to scroll down a little so that the check grabs"
+    },
+    {
+      "text": "Get to work!"
+    }
+  ],
+  "endOfLevel": [
+    {
+      "text": "I did warn you..."
+    },
+    {
+      "text": "You couldn't even do this simple job."
+    },
+    {
+      "text": "Good luck on the job market, rookie"
+    }
+  ]
+}

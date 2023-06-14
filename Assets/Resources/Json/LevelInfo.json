@@ -1,0 +1,184 @@
+{
+  "level": [
+    {
+      "number": 1,
+      "countOfCustomers": 3,
+      "coefficientMaxTime": 30.0,
+      "coefficientMinTime": 20
+    },
+    {
+      "number": 2,
+      "countOfCustomers": 5,
+      "coefficientMaxTime": 30,
+      "coefficientMinTime": 20
+    },
+    {
+      "number": 3,
+      "countOfCustomers": 7,
+      "coefficientMaxTime": 30,
+      "coefficientMinTime": 20
+    },
+    {
+      "number": 4,
+      "countOfCustomers": 8,
+      "coefficientMaxTime": 28,
+      "coefficientMinTime": 18
+    },
+    {
+      "number": 5,
+      "countOfCustomers": 9,
+      "coefficientMaxTime": 28,
+      "coefficientMinTime": 18
+    },
+    {
+      "number": 6,
+      "countOfCustomers": 10,
+      "coefficientMaxTime": 28,
+      "coefficientMinTime": 18
+    },
+    {
+      "number": 7,
+      "countOfCustomers": 12,
+      "coefficientMaxTime": 27,
+      "coefficientMinTime": 17
+    },
+    {
+      "number": 8,
+      "countOfCustomers": 12,
+      "coefficientMaxTime": 27,
+      "coefficientMinTime": 17
+    },
+    {
+      "number": 9,
+      "countOfCustomers": 15,
+      "coefficientMaxTime": 27,
+      "coefficientMinTime": 17
+    },
+    {
+      "number": 10,
+      "countOfCustomers": 15,
+      "coefficientMaxTime": 27,
+      "coefficientMinTime": 17
+    },
+    {
+      "number": 11,
+      "countOfCustomers": 16,
+      "coefficientMaxTime": 25,
+      "coefficientMinTime": 15
+    },
+    {
+      "number": 12,
+      "countOfCustomers": 16,
+      "coefficientMaxTime": 25,
+      "coefficientMinTime": 15
+    },
+    {
+      "number": 13,
+      "countOfCustomers": 16,
+      "coefficientMaxTime": 25,
+      "coefficientMinTime": 15
+    },
+    {
+      "number": 14,
+      "countOfCustomers": 16,
+      "coefficientMaxTime": 25,
+      "coefficientMinTime": 15
+    },
+    {
+      "number": 15,
+      "countOfCustomers": 17,
+      "coefficientMaxTime": 24,
+      "coefficientMinTime": 14
+    },
+    {
+      "number": 16,
+      "countOfCustomers": 17,
+      "coefficientMaxTime": 24,
+      "coefficientMinTime": 14
+    },
+    {
+      "number": 17,
+      "countOfCustomers": 17,
+      "coefficientMaxTime": 24,
+      "coefficientMinTime": 14
+    },
+    {
+      "number": 18,
+      "countOfCustomers": 18,
+      "coefficientMaxTime": 24,
+      "coefficientMinTime": 14
+    },
+    {
+      "number": 19,
+      "countOfCustomers": 18,
+      "coefficientMaxTime": 24,
+      "coefficientMinTime": 14
+    },
+    {
+      "number": 20,
+      "countOfCustomers": 19,
+      "coefficientMaxTime": 22,
+      "coefficientMinTime": 12
+    },
+    {
+      "number": 21,
+      "countOfCustomers": 19,
+      "coefficientMaxTime": 22,
+      "coefficientMinTime": 12
+    },
+    {
+      "number": 22,
+      "countOfCustomers": 20,
+      "coefficientMaxTime": 22,
+      "coefficientMinTime": 12
+    },
+    {
+      "number": 23,
+      "countOfCustomers": 20,
+      "coefficientMaxTime": 22,
+      "coefficientMinTime": 12
+    },
+    {
+      "number": 24,
+      "countOfCustomers": 20,
+      "coefficientMaxTime": 20,
+      "coefficientMinTime": 10
+    },
+    {
+      "number": 25,
+      "countOfCustomers": 20,
+      "coefficientMaxTime": 20,
+      "coefficientMinTime": 10
+    },
+    {
+      "number": 26,
+      "countOfCustomers": 21,
+      "coefficientMaxTime": 20,
+      "coefficientMinTime": 10
+    },
+    {
+      "number": 27,
+      "countOfCustomers": 21,
+      "coefficientMaxTime": 20,
+      "coefficientMinTime": 10
+    },
+    {
+      "number": 28,
+      "countOfCustomers": 22,
+      "coefficientMaxTime": 20,
+      "coefficientMinTime": 10
+    },
+    {
+      "number": 29,
+      "countOfCustomers": 22,
+      "coefficientMaxTime": 20,
+      "coefficientMinTime": 10
+    },
+    {
+      "number": 30,
+      "countOfCustomers": 25,
+      "coefficientMaxTime": 20,
+      "coefficientMinTime": 10
+    }
+  ]
+}

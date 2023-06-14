@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Product
+  - ProductScanned
+  - ProductBought
+  - DestroyTrigger
+  - MoveLeft
+  - Scan
+  - DC
+  - Skelet
+  - BadProduct
+  - moneyCase
+  - coin
+  - cash
+  - coinBack
+  - cashBack
+  - Face
+  - AngryFace
+  - Tors
+  - Hat
+  - Pupils
+  - Locker
+  - CardToHold
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Layer6
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

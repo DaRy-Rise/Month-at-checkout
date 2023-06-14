@@ -1,0 +1,64 @@
+{
+  "button": [
+    {
+      "number": 0,
+      "pointX": 49.30899,
+      "pointY": 38.62157
+    },
+    {
+      "number": 0.0,
+      "pointX": 112.309,
+      "pointY": 38.62157
+    },
+    {
+      "number": 1,
+      "pointX": 49.30899,
+      "pointY": 91.62157
+    },
+    {
+      "number": 2,
+      "pointX": 112.309,
+      "pointY": 91.62157
+    },
+    {
+      "number": 3,
+      "pointX": 175.309,
+      "pointY": 91.62157
+    },
+    {
+      "number": 4,
+      "pointX": 49.30899,
+      "pointY": 144.6216
+    },
+    {
+      "number": 5,
+      "pointX": 112.309,
+      "pointY": 144.6216
+    },
+    {
+      "number": 6,
+      "pointX": 175.309,
+      "pointY": 144.6216
+    },
+    {
+      "number": 7,
+      "pointX": 49.30899,
+      "pointY": 197.6216
+    },
+    {
+      "number": 8,
+      "pointX": 112.309,
+      "pointY": 197.6216
+    },
+    {
+      "number": 9,
+      "pointX": 175.309,
+      "pointY": 197.6216
+    },
+    {
+      "number": 0.1,
+      "pointX": 175.309,
+      "pointY": 38.62157
+    }
+  ]
+}

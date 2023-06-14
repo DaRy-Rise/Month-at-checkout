@@ -1,0 +1,64 @@
+{
+  "card": [
+    {
+      "id": 0,
+      "name": "Cashback",
+      "info": "Customers are more likely to pay by card"
+    },
+    {
+      "id": 1,
+      "name": "Full card day",
+      "info": "Сustomers pay by card only"
+    },
+    {
+      "id": 2,
+      "name": "Good barcodes",
+      "info": "No corrupted barcodes"
+    },
+    {
+      "id": 3,
+      "name": "Tolerance Day",
+      "info": "People are willing to wait"
+    },
+    {
+      "id": 4,
+      "name": "Inattention",
+      "info": "People are not attentive"
+    },
+    {
+      "id": 5,
+      "name": "Fast checkout",
+      "info": "Customers buy no more than 5 products"
+    },
+    {
+      "id": 6,
+      "name": "Simplify input",
+      "info": "Barcodes are shorter"
+    },
+    {
+      "id": 7,
+      "name": "Complete Trust",
+      "info": "There is no \"anti-thief\" on the goods"
+    },
+    {
+      "id": 8,
+      "name": "Build to last",
+      "info": "The computer does not throw an error"
+    },
+    {
+      "id": 9,
+      "name": "Endless roll",
+      "info": "The check roll won't run out"
+    },
+    {
+      "id": 10,
+      "name": "Couponless",
+      "info": "Customers dont ask to scan a coupon"
+    },
+    {
+      "id": 11,
+      "name": "All my goods are with me",
+      "info": "Buyers do not ask for a bag"
+    }
+  ]
+}
