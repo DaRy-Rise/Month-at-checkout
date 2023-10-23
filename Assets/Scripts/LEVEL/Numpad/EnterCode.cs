@@ -25,11 +25,13 @@ public class EnterCode : MonoBehaviour
             ProductSpawner.isGood = true;
             code.text = string.Empty;
             enteredCode.text = string.Empty;
-            rightSound.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+                rightSound.Play();
         }
         else
         {
-            wrongSound.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+                wrongSound.Play();
         }
 
         onEnterCode?.Invoke();

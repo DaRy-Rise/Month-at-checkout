@@ -17,7 +17,8 @@ public class PanelBagSwipeDetector : MonoBehaviour, IBeginDragHandler, IDragHand
     private void OnSwipeUp()
     {
         Instantiate(bagPrefab, new Vector2(237, -98), Quaternion.identity);
-        bagShowSound.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+            bagShowSound.Play();
         onSwipe?.Invoke();
         gameObject.SetActive(false);
     }

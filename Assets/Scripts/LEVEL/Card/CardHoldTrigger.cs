@@ -26,7 +26,8 @@ public class CardHoldTrigger : MonoBehaviour
         {
             indicators.sprite = Resources.Load<Sprite>($"CardIndicators/CardStart");
             bar = Instantiate(barPrefab, new Vector2(143.6f, 406.8f), Quaternion.identity);
-            startPaySound.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+                startPaySound.Play();
         }
     }
 
@@ -43,7 +44,8 @@ public class CardHoldTrigger : MonoBehaviour
         if (collision.tag == "CardToHold")
         {
             indicators.sprite = Resources.Load<Sprite>($"CardIndicators/CardStop");
-            stopPaySound.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+                stopPaySound.Play();
             Destroy(bar);
         } 
     }

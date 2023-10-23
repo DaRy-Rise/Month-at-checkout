@@ -44,7 +44,8 @@ public class CardHoldManager : MonoBehaviour
 
     private void ConfirmPay()
     {
-        successPaySound.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+            successPaySound.Play();
         Destroy(card);
         backGround.SetActive(false);
         trigger.SetActive(false);

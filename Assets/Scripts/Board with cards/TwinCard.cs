@@ -90,7 +90,10 @@ public class TwinCard : MonoBehaviour
     {
         if (first)
         {
-            click.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+            {
+                click.Play();
+            }
             first = false;
             if (isActive)
                 return;

@@ -55,7 +55,8 @@ public class CheckErrorManager : MonoBehaviour
     {
         if (!isError && count < maxCountOfCheckErrors)
         {
-            breakingSound.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+                breakingSound.Play();
             image.enabled = true;
             button.enabled = true;
             count++;

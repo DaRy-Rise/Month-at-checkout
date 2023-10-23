@@ -44,18 +44,21 @@ public class GradeAfterLevel : MonoBehaviour
     {
         if (SetGetInfo.grade == "A")
         {
-            markA.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+                markA.Play();
             Instantiate(Resources.Load<GameObject>("Prefab/GradePrefab/ABC/AAfter"), new Vector2(0,0), Quaternion.identity);
             Instantiate(Resources.Load<GameObject>("Prefab/GradePrefab/EllipsAfter"), new Vector2(0, 0), Quaternion.identity);
         }
         else if (SetGetInfo.grade == "B")
         {
-            markB.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+                markB.Play();
             Instantiate(Resources.Load<GameObject>("Prefab/GradePrefab/ABC/BAfter"), new Vector2(0, 0), Quaternion.identity);
         }
         else if (SetGetInfo.grade == "C")
         {
-            markC.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+                markC.Play();
             Instantiate(Resources.Load<GameObject>("Prefab/GradePrefab/ABC/CAfter"), new Vector2(0, 0), Quaternion.identity);
         }
     }

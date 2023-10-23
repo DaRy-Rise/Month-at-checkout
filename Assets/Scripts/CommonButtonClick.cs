@@ -7,6 +7,9 @@ public class CommonButtonClick : MonoBehaviour
 
     public void Click()
     {
-        click.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+        {
+            click.Play();
+        }
     }
 }

@@ -23,21 +23,6 @@ public class OpenPauseMenu : MonoBehaviour
         }
     }
 
-    private void LoadMenuScene()
-    {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("Main");
-    }
-
-    private void ResumeToGame()
-    {
-        pauseGameMenu.SetActive(false);
-        Time.timeScale = 1f;
-        PauseGame = false;
-        TouchProduct.isPause = false;
-        Patience.isPause = false;
-    }
-
     public void Pause()
     {
         pauseGameMenu.SetActive(true);
@@ -49,11 +34,16 @@ public class OpenPauseMenu : MonoBehaviour
 
     public void Resume()
     {
-        Invoke("ResumeToGame", 0.5f);
+        Time.timeScale = 1f;
+        PauseGame = false;
+        TouchProduct.isPause = false;
+        Patience.isPause = false;
+        pauseGameMenu.SetActive(false);
     }
 
     public void ExitToMenu()
     {
-        Invoke("LoadMenuScene", 0.5f);
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("Main");
     }
 }

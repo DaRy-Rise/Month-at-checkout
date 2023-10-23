@@ -13,7 +13,8 @@ public class Signature : MonoBehaviour
 
     private void OnBecameVisible()
     {
-        penSound.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+            penSound.Play();
         animator.SetBool("IsVisible", true);
     }
 }

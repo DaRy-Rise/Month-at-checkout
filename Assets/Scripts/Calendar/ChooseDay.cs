@@ -17,7 +17,10 @@ public class ChooseDay : MonoBehaviour
     {
         if (grade.numberOfDay == SetGetInfo.currentLevel)
         {
-            click.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+            {
+                click.Play();
+            }
             onChooseDay?.Invoke();
         }      
     }

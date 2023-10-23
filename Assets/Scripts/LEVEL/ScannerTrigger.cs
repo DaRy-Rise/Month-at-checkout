@@ -33,7 +33,8 @@ public class ScannerTrigger : MonoBehaviour
     {
         productSpw.SetScannedTag();       
         kasaLight.GetComponent<SpriteRenderer>().enabled = true;
-        beepSound.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+            beepSound.Play();
         productInfo.ShowInfo();
         counter.Plus(ProductSpawner.product.price);
         if (CustomerSpawner.isChild && ProductSpawner.product.isAlcohol)

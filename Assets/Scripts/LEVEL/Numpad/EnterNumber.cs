@@ -15,6 +15,7 @@ public class EnterNumber : MonoBehaviour
     public void Enter()
     {
         code.text += number.number;
-        beep.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+            beep.Play();
     }
 }

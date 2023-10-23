@@ -41,7 +41,10 @@ public class Check : MonoBehaviour
         onSpawn?.Invoke();
         if (!CheckErrorManager.isError)
         {
-            printSound.Play();
+            if (PlayerPrefs.GetInt("music") == 1)
+            {
+                printSound.Play();
+            }
             Invoke("SetReadyToSwipe", 0.36f);
             Instantiate(check, spawnPoint, Quaternion.identity);
         }      
@@ -53,7 +56,10 @@ public class Check : MonoBehaviour
 
     public void TearOff()
     {
-        tearSound.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+        {
+            tearSound.Play();
+        }
         swipePanel.SetActive(false);
         onTearOff?.Invoke();
     }

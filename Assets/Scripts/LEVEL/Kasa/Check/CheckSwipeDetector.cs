@@ -10,7 +10,8 @@ public class CheckSwipeDetector : MonoBehaviour, IBeginDragHandler, IDragHandler
 
     private void OnSwipeDown()
 	{
-        swipeSound.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+            swipeSound.Play();
         onSwipe?.Invoke();
 	}
 

@@ -11,13 +11,20 @@ public class MoneyManager : MonoBehaviour
     public void ShowMoney()
     {      
         moneyCopy = Instantiate(money, new Vector2(0,0), Quaternion.identity);
-        if (moneyCopy.tag == "coin")
+        if (PlayerPrefs.GetInt("music") == 1)
         {
-            coinSound.Play();
-        }
-        else
-        {
-            cashSound.Play();
-        }
+            if (moneyCopy.tag == "coin")
+            {
+
+                coinSound.Play();
+
+            }
+            else
+            {
+
+                cashSound.Play();
+
+            }
+        }     
     }  
 }

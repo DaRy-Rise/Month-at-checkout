@@ -31,7 +31,7 @@ public class DeleteProduct : MonoBehaviour
                 else
                 {
                     Patience.Fine(10);
-                     KarmaPoints.ShowPoints(PointsToKarma.Minus);
+                    KarmaPoints.ShowPoints(PointsToKarma.Minus);
                     Karma.countWrongDeletedProduct++;
                 }
                 if (product.tag != "ProductScanned")

@@ -17,7 +17,8 @@ public class LevelEndChecker : MonoBehaviour
 
     public void EndOfLevel()
     {
-        endOfLevelSound.Play();
+        if (PlayerPrefs.GetInt("music") == 1)
+            endOfLevelSound.Play();
         Invoke("LoadNextScene",1.9f);
     }
     private void LoadNextScene()
